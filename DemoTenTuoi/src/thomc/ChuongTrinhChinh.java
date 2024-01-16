@@ -3,16 +3,25 @@
  */
 package thomc;
 
-/**
- * 
- */
-public class ChuongTrinhChinh {
+import java.util.Scanner;
 
-	/**
-	 * @param args
-	 */
+public class ChuongTrinhChinh {
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		int namSinh;
+		String hoTen;
+		//Chuẩn bị nhập
+		Scanner banPhim = new Scanner(System.in);
+		
+		System.out.print("Họ và Tên:");
+		hoTen= banPhim.nextLine();
+		
+		System.out.print("Năm sinh:");
+		namSinh= banPhim.nextInt();
+		
+		int tuoi = 2024- namSinh +1;
+		
+		System.out.
+		
 
 	}
 

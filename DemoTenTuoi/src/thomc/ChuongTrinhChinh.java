@@ -20,7 +20,7 @@ public class ChuongTrinhChinh {
 		
 		int tuoi = 2024- namSinh +1;
 		
-		System.out.
+		System.out.print("Tuổi của bạn là: " + String.valueOf(tuoi));
 		
 
 	}

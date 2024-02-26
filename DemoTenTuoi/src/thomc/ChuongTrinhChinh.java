@@ -22,6 +22,7 @@ public class ChuongTrinhChinh {
 		
 		System.out.print("Tuổi của bạn là: " + String.valueOf(tuoi));
 		
+		SinhVienNTU sv1 = new SinhVienNTU();
 
 	}
 

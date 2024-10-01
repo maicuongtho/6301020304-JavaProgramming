@@ -1,9 +1,0 @@
-public class App {
-	public static void main(String[] args) {
-		// Khai báo các biến cần thiết
-		int a, b, tong;
-		// Chuẩn bị cho nhập dữ liệu
-		
-	}
-
-}

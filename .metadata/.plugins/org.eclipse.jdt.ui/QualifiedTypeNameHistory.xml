@@ -28,10 +28,17 @@
     <fullyQualifiedTypeName name="Cat"/>
     <fullyQualifiedTypeName name="Dog"/>
     <fullyQualifiedTypeName name="IAnimal"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="javafx.fxml.Initializable"/>
     <fullyQualifiedTypeName name="java.awt.Button"/>
     <fullyQualifiedTypeName name="javafx.fxml.FXML"/>
     <fullyQualifiedTypeName name="javafx.fxml.FXMLLoader"/>
     <fullyQualifiedTypeName name="javafx.scene.Scene"/>
+    <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="java.io.FileWriter"/>
+    <fullyQualifiedTypeName name="java.io.FileReader"/>
+    <fullyQualifiedTypeName name="char"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
 </qualifiedTypeNameHistroy>

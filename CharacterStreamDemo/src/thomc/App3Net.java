@@ -12,7 +12,7 @@ public class App3Net {
 	public static void main(String[] args) throws IOException {
 
 		// Tạo chuỗi định vị tài nguyên mạng, đến trang defautl.a 
-		URL url = new URL("https://ntu.edu.vn/default.aspx");
+		URL url = new URL("https://vnexpress.net/rss/cuoi.rss");
 		// Gửi yêu cầu kết nối
 		// giống như chúng ta nhập url lên trình duyệt, rồi Goo
 		URLConnection connection = url.openConnection();

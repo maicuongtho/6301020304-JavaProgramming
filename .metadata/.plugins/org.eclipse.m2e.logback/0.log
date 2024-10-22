@@ -19,3 +19,402 @@
 2024-09-20 16:34:38,702 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
 2024-09-20 16:57:18,489 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 2024-10-01 07:37:14,527 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-10-01 09:17:51,140 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.13.0/maven-compiler-plugin-3.13.0.jar
+2024-10-01 09:17:51,214 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.13.0/maven-compiler-plugin-3.13.0.jar
+2024-10-01 09:17:51,269 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/3.2.5/maven-surefire-plugin-3.2.5.jar
+2024-10-01 09:17:51,303 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/3.2.5/maven-surefire-plugin-3.2.5.jar
+2024-10-01 09:17:51,354 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/3.4.1/maven-jar-plugin-3.4.1.jar
+2024-10-01 09:17:51,379 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/3.4.1/maven-jar-plugin-3.4.1.jar
+2024-10-01 09:17:51,416 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/3.1.2/maven-install-plugin-3.1.2.jar
+2024-10-01 09:17:51,450 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/3.1.2/maven-install-plugin-3.1.2.jar
+2024-10-01 09:17:51,494 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-deploy-plugin/3.1.2/maven-deploy-plugin-3.1.2.jar
+2024-10-01 09:17:51,508 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-deploy-plugin/3.1.2/maven-deploy-plugin-3.1.2.jar
+2024-10-01 09:17:51,572 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.13.0/maven-compiler-plugin-3.13.0.pom
+2024-10-01 09:17:51,578 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.13.0/maven-compiler-plugin-3.13.0.pom
+2024-10-01 09:17:51,657 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/41/maven-plugins-41.pom
+2024-10-01 09:17:51,662 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/41/maven-plugins-41.pom
+2024-10-01 09:17:51,706 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/41/maven-parent-41.pom
+2024-10-01 09:17:51,725 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/41/maven-parent-41.pom
+2024-10-01 09:17:51,788 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/apache/31/apache-31.pom
+2024-10-01 09:17:51,796 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/apache/31/apache-31.pom
+2024-10-01 09:17:51,898 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.4.2/maven-shared-utils-3.4.2.pom
+2024-10-01 09:17:51,902 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.4.2/maven-shared-utils-3.4.2.pom
+2024-10-01 09:17:52,037 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-java/1.2.0/plexus-java-1.2.0.pom
+2024-10-01 09:17:52,044 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-java/1.2.0/plexus-java-1.2.0.pom
+2024-10-01 09:17:52,088 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-languages/1.2.0/plexus-languages-1.2.0.pom
+2024-10-01 09:17:52,095 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-languages/1.2.0/plexus-languages-1.2.0.pom
+2024-10-01 09:17:52,138 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/15/plexus-15.pom
+2024-10-01 09:17:52,150 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/15/plexus-15.pom
+2024-10-01 09:17:52,197 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm/9.6/asm-9.6.pom
+2024-10-01 09:17:52,204 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm/9.6/asm-9.6.pom
+2024-10-01 09:17:52,274 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.15.0/plexus-compiler-api-2.15.0.pom
+2024-10-01 09:17:52,280 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.15.0/plexus-compiler-api-2.15.0.pom
+2024-10-01 09:17:52,381 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/2.15.0/plexus-compiler-2.15.0.pom
+2024-10-01 09:17:52,387 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/2.15.0/plexus-compiler-2.15.0.pom
+2024-10-01 09:17:52,428 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/17/plexus-17.pom
+2024-10-01 09:17:52,442 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/17/plexus-17.pom
+2024-10-01 09:17:52,498 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/4.0.0/plexus-utils-4.0.0.pom
+2024-10-01 09:17:52,503 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/4.0.0/plexus-utils-4.0.0.pom
+2024-10-01 09:17:52,540 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/13/plexus-13.pom
+2024-10-01 09:17:52,551 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/13/plexus-13.pom
+2024-10-01 09:17:52,598 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.15.0/plexus-compiler-manager-2.15.0.pom
+2024-10-01 09:17:52,601 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.15.0/plexus-compiler-manager-2.15.0.pom
+2024-10-01 09:17:52,641 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-xml/3.0.0/plexus-xml-3.0.0.pom
+2024-10-01 09:17:52,646 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-xml/3.0.0/plexus-xml-3.0.0.pom
+2024-10-01 09:17:52,688 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.15.0/plexus-compiler-javac-2.15.0.pom
+2024-10-01 09:17:52,690 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.15.0/plexus-compiler-javac-2.15.0.pom
+2024-10-01 09:17:52,728 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/2.15.0/plexus-compilers-2.15.0.pom
+2024-10-01 09:17:52,732 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/2.15.0/plexus-compilers-2.15.0.pom
+2024-10-01 09:17:52,810 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.4.2/maven-shared-utils-3.4.2.jar
+2024-10-01 09:17:52,867 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.4.2/maven-shared-utils-3.4.2.jar
+2024-10-01 09:17:52,906 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm/9.6/asm-9.6.jar
+2024-10-01 09:17:52,947 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm/9.6/asm-9.6.jar
+2024-10-01 09:17:52,980 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.15.0/plexus-compiler-manager-2.15.0.jar
+2024-10-01 09:17:52,984 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.15.0/plexus-compiler-manager-2.15.0.jar
+2024-10-01 09:17:52,987 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.15.0/plexus-compiler-javac-2.15.0.jar
+2024-10-01 09:17:52,988 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-java/1.2.0/plexus-java-1.2.0.jar
+2024-10-01 09:17:52,991 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.15.0/plexus-compiler-api-2.15.0.jar
+2024-10-01 09:17:52,993 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-xml/3.0.0/plexus-xml-3.0.0.jar
+2024-10-01 09:17:52,998 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.15.0/plexus-compiler-javac-2.15.0.jar
+2024-10-01 09:17:53,013 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.15.0/plexus-compiler-api-2.15.0.jar
+2024-10-01 09:17:53,021 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/4.0.0/plexus-utils-4.0.0.jar
+2024-10-01 09:17:53,023 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-java/1.2.0/plexus-java-1.2.0.jar
+2024-10-01 09:17:53,057 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-xml/3.0.0/plexus-xml-3.0.0.jar
+2024-10-01 09:17:53,109 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/4.0.0/plexus-utils-4.0.0.jar
+2024-10-01 09:17:53,313 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: HelloMaven:thomc:0.0.1-SNAPSHOT @ D:\MyProjects\6301020304-JavaProgramming\thomc\pom.xml.
+2024-10-01 09:17:53,386 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/3.2.5/maven-surefire-plugin-3.2.5.pom
+2024-10-01 09:17:53,389 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/3.2.5/maven-surefire-plugin-3.2.5.pom
+2024-10-01 09:17:53,424 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/3.2.5/surefire-3.2.5.pom
+2024-10-01 09:17:53,428 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/3.2.5/surefire-3.2.5.pom
+2024-10-01 09:17:53,494 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/3.4.1/maven-jar-plugin-3.4.1.pom
+2024-10-01 09:17:53,499 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/3.4.1/maven-jar-plugin-3.4.1.pom
+2024-10-01 09:17:53,534 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/42/maven-plugins-42.pom
+2024-10-01 09:17:53,537 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/42/maven-plugins-42.pom
+2024-10-01 09:17:53,571 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/42/maven-parent-42.pom
+2024-10-01 09:17:53,598 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/42/maven-parent-42.pom
+2024-10-01 09:17:53,634 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/apache/32/apache-32.pom
+2024-10-01 09:17:53,642 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/apache/32/apache-32.pom
+2024-10-01 09:17:53,706 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/4.0.1/plexus-utils-4.0.1.pom
+2024-10-01 09:17:53,711 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/4.0.1/plexus-utils-4.0.1.pom
+2024-10-01 09:17:53,748 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/2.16.1/commons-io-2.16.1.pom
+2024-10-01 09:17:53,757 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/2.16.1/commons-io-2.16.1.pom
+2024-10-01 09:17:53,798 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/69/commons-parent-69.pom
+2024-10-01 09:17:53,864 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/69/commons-parent-69.pom
+2024-10-01 09:17:53,910 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.6.2/maven-archiver-3.6.2.pom
+2024-10-01 09:17:53,916 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.6.2/maven-archiver-3.6.2.pom
+2024-10-01 09:17:53,971 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/41/maven-shared-components-41.pom
+2024-10-01 09:17:53,977 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/41/maven-shared-components-41.pom
+2024-10-01 09:17:54,027 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/4.9.2/plexus-archiver-4.9.2.pom
+2024-10-01 09:17:54,035 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/4.9.2/plexus-archiver-4.9.2.pom
+2024-10-01 09:17:54,082 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/3.4.2/plexus-io-3.4.2.pom
+2024-10-01 09:17:54,089 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/3.4.2/plexus-io-3.4.2.pom
+2024-10-01 09:17:54,126 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/16/plexus-16.pom
+2024-10-01 09:17:54,134 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/16/plexus-16.pom
+2024-10-01 09:17:54,177 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.10.1/junit-bom-5.10.1.pom
+2024-10-01 09:17:54,183 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.10.1/junit-bom-5.10.1.pom
+2024-10-01 09:17:54,240 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.26.1/commons-compress-1.26.1.pom
+2024-10-01 09:17:54,256 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.26.1/commons-compress-1.26.1.pom
+2024-10-01 09:17:54,297 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/66/commons-parent-66.pom
+2024-10-01 09:17:54,340 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/66/commons-parent-66.pom
+2024-10-01 09:17:54,380 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.16.1/commons-codec-1.16.1.pom
+2024-10-01 09:17:54,388 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.16.1/commons-codec-1.16.1.pom
+2024-10-01 09:17:54,455 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0.pom
+2024-10-01 09:17:54,479 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0.pom
+2024-10-01 09:17:54,525 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/64/commons-parent-64.pom
+2024-10-01 09:17:54,542 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/64/commons-parent-64.pom
+2024-10-01 09:17:54,619 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/luben/zstd-jni/1.5.5-11/zstd-jni-1.5.5-11.pom
+2024-10-01 09:17:54,622 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/luben/zstd-jni/1.5.5-11/zstd-jni-1.5.5-11.pom
+2024-10-01 09:17:54,656 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.27/plexus-interpolation-1.27.pom
+2024-10-01 09:17:54,659 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.27/plexus-interpolation-1.27.pom
+2024-10-01 09:17:54,717 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/2.16.1/commons-io-2.16.1.jar
+2024-10-01 09:17:55,078 [Worker-64: Creating project "thomc"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/2.16.1/commons-io-2.16.1.jar
+2024-10-01 09:17:55,114 [BasicRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.6.2/maven-archiver-3.6.2.jar
+2024-10-01 09:17:55,114 [BasicRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/3.4.2/plexus-io-3.4.2.jar
+2024-10-01 09:17:55,115 [BasicRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.27/plexus-interpolation-1.27.jar
+2024-10-01 09:17:55,121 [BasicRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/4.9.2/plexus-archiver-4.9.2.jar
+2024-10-01 09:17:55,122 [BasicRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/4.0.1/plexus-utils-4.0.1.jar
+2024-10-01 09:17:55,235 [BasicRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.6.2/maven-archiver-3.6.2.jar
+2024-10-01 09:17:55,305 [BasicRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/3.4.2/plexus-io-3.4.2.jar
+2024-10-01 09:17:55,341 [BasicRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.27/plexus-interpolation-1.27.jar
+2024-10-01 09:17:55,376 [BasicRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/4.0.1/plexus-utils-4.0.1.jar
+2024-10-01 09:17:55,378 [BasicRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.26.1/commons-compress-1.26.1.jar
+2024-10-01 09:17:55,449 [BasicRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0.jar
+2024-10-01 09:17:55,523 [BasicRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.16.1/commons-codec-1.16.1.jar
+2024-10-01 09:17:55,523 [BasicRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/luben/zstd-jni/1.5.5-11/zstd-jni-1.5.5-11.jar
+2024-10-01 09:17:55,681 [BasicRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/4.9.2/plexus-archiver-4.9.2.jar
+2024-10-01 09:17:56,167 [BasicRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0.jar
+2024-10-01 09:17:56,220 [BasicRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.16.1/commons-codec-1.16.1.jar
+2024-10-01 09:17:56,285 [BasicRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.26.1/commons-compress-1.26.1.jar
+2024-10-01 09:17:59,793 [BasicRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/luben/zstd-jni/1.5.5-11/zstd-jni-1.5.5-11.jar
+2024-10-01 09:18:00,233 [Worker-64: Creating project "thomc"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /thomc/src/main/java
+2024-10-01 09:18:00,235 [Worker-64: Creating project "thomc"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /thomc/src/main/resources
+2024-10-01 09:18:00,235 [Worker-64: Creating project "thomc"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /thomc/src/test/java
+2024-10-01 09:18:00,235 [Worker-64: Creating project "thomc"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /thomc/src/test/resources
+2024-10-01 09:18:00,498 [Worker-67: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-01 09:18:00,504 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-01 09:18:00,508 [Worker-67: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-01 09:18:00,508 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-01 09:18:23,869 [Worker-64: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-01 09:18:23,873 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-01 09:18:23,876 [Worker-64: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-01 09:18:23,877 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-01 09:18:48,909 [Worker-67: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-01 09:18:48,910 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-01 09:18:48,912 [Worker-67: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-01 09:18:48,912 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-01 09:20:27,619 [Worker-70: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: HelloMaven:thomc:0.0.1-SNAPSHOT @ D:\MyProjects\6301020304-JavaProgramming\thomc\pom.xml.
+2024-10-01 09:20:27,928 [Worker-70: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.pom
+2024-10-01 09:20:27,974 [Worker-70: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.pom
+2024-10-01 09:20:28,053 [Worker-70: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.pom
+2024-10-01 09:20:28,059 [Worker-70: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.pom
+2024-10-01 09:20:28,150 [Worker-70: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.pom
+2024-10-01 09:20:28,156 [Worker-70: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.pom
+2024-10-01 09:20:28,233 [Worker-70: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.1/hamcrest-parent-1.1.pom
+2024-10-01 09:20:28,240 [Worker-70: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.1/hamcrest-parent-1.1.pom
+2024-10-01 09:20:28,314 [Worker-70: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar
+2024-10-01 09:20:28,352 [Worker-70: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar
+2024-10-01 09:20:28,416 [BasicRepositoryConnector-repo.maven.apache.org-2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar
+2024-10-01 09:20:28,544 [BasicRepositoryConnector-repo.maven.apache.org-2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar
+2024-10-01 09:20:28,564 [BasicRepositoryConnector-repo.maven.apache.org-2-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.jar
+2024-10-01 09:20:28,837 [BasicRepositoryConnector-repo.maven.apache.org-2-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.jar
+2024-10-01 09:20:28,959 [Worker-70: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-01 09:20:28,960 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-01 09:20:28,963 [Worker-70: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-01 09:20:28,964 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-01 09:20:30,103 [Worker-71: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1-sources.jar
+2024-10-01 09:20:30,114 [Worker-71: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1-sources.jar
+2024-10-01 09:20:30,118 [Worker-71: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.googlecode.json-simple:json-simple:1.1.1
+2024-10-01 09:20:30,297 [Worker-67: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-01 09:20:30,297 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-01 09:20:30,299 [Worker-67: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-01 09:20:30,300 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-01 09:20:30,310 [Worker-71: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10-sources.jar
+2024-10-01 09:20:30,436 [Worker-71: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10-sources.jar
+2024-10-01 09:20:30,439 [Worker-71: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:4.10
+2024-10-01 09:20:30,627 [Worker-71: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1-sources.jar
+2024-10-01 09:20:30,632 [Worker-71: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1-sources.jar
+2024-10-01 09:20:30,639 [Worker-71: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hamcrest:hamcrest-core:1.1
+2024-10-01 09:23:04,741 [Worker-64: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-01 09:23:04,742 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-01 09:23:04,744 [Worker-64: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-01 09:23:04,744 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-15 14:22:34,651 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-10-15 14:56:03,285 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjfx/javafx-archetype-simple/0.0.6/javafx-archetype-simple-0.0.6.pom
+2024-10-15 14:56:03,343 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjfx/javafx-archetype-simple/0.0.6/javafx-archetype-simple-0.0.6.pom
+2024-10-15 14:56:03,427 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjfx/javafx-maven-archetypes/0.0.6/javafx-maven-archetypes-0.0.6.pom
+2024-10-15 14:56:03,457 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjfx/javafx-maven-archetypes/0.0.6/javafx-maven-archetypes-0.0.6.pom
+2024-10-15 14:56:03,535 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjfx/javafx-archetype-simple/0.0.6/javafx-archetype-simple-0.0.6.jar
+2024-10-15 14:56:03,590 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjfx/javafx-archetype-simple/0.0.6/javafx-archetype-simple-0.0.6.jar
+2024-10-15 14:56:21,931 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313 [297])
+2024-10-15 14:56:21,935 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313
+2024-10-15 14:56:21,935 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\aopalliance-1.0.jar
+2024-10-15 14:56:21,936 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\guice-5.1.0.jar
+2024-10-15 14:56:21,936 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\httpclient-4.5.14.jar
+2024-10-15 14:56:21,936 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\httpcore-4.4.16.jar
+2024-10-15 14:56:21,936 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\jansi-2.4.1.jar
+2024-10-15 14:56:21,936 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\jcl-over-slf4j-1.7.36.jar
+2024-10-15 14:56:21,937 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-artifact-3.9.7.jar
+2024-10-15 14:56:21,937 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-builder-support-3.9.7.jar
+2024-10-15 14:56:21,937 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-compat-3.9.7.jar
+2024-10-15 14:56:21,937 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-core-3.9.7.jar
+2024-10-15 14:56:21,937 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-embedder-3.9.7.jar
+2024-10-15 14:56:21,938 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-model-3.9.7.jar
+2024-10-15 14:56:21,938 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-model-builder-3.9.7.jar
+2024-10-15 14:56:21,938 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-plugin-api-3.9.7.jar
+2024-10-15 14:56:21,938 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-repository-metadata-3.9.7.jar
+2024-10-15 14:56:21,938 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-api-1.9.20.jar
+2024-10-15 14:56:21,939 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-connector-basic-1.9.20.jar
+2024-10-15 14:56:21,939 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-impl-1.9.20.jar
+2024-10-15 14:56:21,939 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-named-locks-1.9.20.jar
+2024-10-15 14:56:21,939 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-provider-3.9.7.jar
+2024-10-15 14:56:21,939 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-spi-1.9.20.jar
+2024-10-15 14:56:21,939 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-transport-file-1.9.20.jar
+2024-10-15 14:56:21,940 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-transport-http-1.9.20.jar
+2024-10-15 14:56:21,940 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-transport-wagon-1.9.20.jar
+2024-10-15 14:56:21,940 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-util-1.9.20.jar
+2024-10-15 14:56:21,940 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-settings-3.9.7.jar
+2024-10-15 14:56:21,940 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-settings-builder-3.9.7.jar
+2024-10-15 14:56:21,940 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-shared-utils-3.4.2.jar
+2024-10-15 14:56:21,940 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\org.eclipse.sisu.inject-0.9.0.M2.jar
+2024-10-15 14:56:21,941 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\org.eclipse.sisu.plexus-0.9.0.M2.jar
+2024-10-15 14:56:21,941 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-build-api-0.0.7.jar
+2024-10-15 14:56:21,941 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-build-api-1.2.0.jar
+2024-10-15 14:56:21,941 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-cipher-2.0.jar
+2024-10-15 14:56:21,942 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-classworlds-2.8.0.jar
+2024-10-15 14:56:21,942 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-component-annotations-2.1.0.jar
+2024-10-15 14:56:21,942 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-interpolation-1.27.jar
+2024-10-15 14:56:21,942 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-sec-dispatcher-2.0.jar
+2024-10-15 14:56:21,942 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-utils-3.5.1.jar
+2024-10-15 14:56:21,943 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-file-3.5.3.jar
+2024-10-15 14:56:21,943 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-http-3.5.3.jar
+2024-10-15 14:56:21,943 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-http-shared-3.5.3.jar
+2024-10-15 14:56:21,943 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-provider-api-3.5.3.jar
+2024-10-15 14:56:21,946 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.3.0.jre [527])
+2024-10-15 14:56:21,947 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\com.google.guava_33.3.0.jre.jar
+2024-10-15 14:56:21,947 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.16 [518])
+2024-10-15 14:56:21,948 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\slf4j.api_2.0.16.jar
+2024-10-15 14:56:21,948 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [21])
+2024-10-15 14:56:21,949 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2024-10-15 14:56:21,949 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20200909-1856 [24])
+2024-10-15 14:56:21,949 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\javax.annotation_1.3.5.v20200909-1856.jar
+2024-10-15 14:56:21,949 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.9.0 [534])
+2024-10-15 14:56:21,950 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\org.apache.commons.cli_1.9.0.jar
+2024-10-15 14:56:21,950 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [48])
+2024-10-15 14:56:21,951 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2024-10-15 14:56:21,951 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.16.0 [536])
+2024-10-15 14:56:21,952 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\org.apache.commons.lang3_3.16.0.jar
+2024-10-15 14:56:21,952 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [11])
+2024-10-15 14:56:21,953 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\thomc\.p2\pool\plugins\com.google.guava.failureaccess_1.0.2.jar
+2024-10-15 14:56:21,966 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\thomc\AppData\Local\Temp\m2e-archetypeGenerator15745403548460155271":
+2024-10-15 14:56:21,973 [Worker-33: Launching mavenrun-5e214b81-ef67-4521-882d-1a726f015372] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Djavafx-version=13 -Djavafx-maven-plugin-version=0.0.6 -Dadd-debug-configuration=N -DarchetypeGroupId=org.openjfx -DarchetypeArtifactId=javafx-archetype-simple -DarchetypeVersion=0.0.6 -DgroupId=thomc -DartifactId=TestJSon -Dversion=0.0.1-SNAPSHOT -Dpackage=thomc.TestJSon -DoutputDirectory=D:\MyProjects\6301020304-JavaProgramming -Dstyle.color=always -U archetype:generate
+2024-10-15 15:02:11,238 [main] ERROR o.e.m2e.editor.pom.MavenPomEditor - InterruptedException
+org.eclipse.core.runtime.CoreException: InterruptedException
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider.executeOperation(TextFileDocumentProvider.java:472)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider.synchronize(TextFileDocumentProvider.java:1149)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.initializeSourceDocument(MavenPomEditor.java:400)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.addFallbackEditors(MavenPomEditor.java:364)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.addPages(MavenPomEditor.java:337)
+	at org.eclipse.ui.forms.editor.FormEditor.createPages(FormEditor.java:143)
+	at org.eclipse.ui.part.MultiPageEditorPart.createPartControl(MultiPageEditorPart.java:332)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.createPartControl(CompatibilityPart.java:158)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor.createPartControl(CompatibilityEditor.java:96)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.create(CompatibilityPart.java:365)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:977)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:939)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalInject(InjectorImpl.java:139)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalMake(InjectorImpl.java:386)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.make(InjectorImpl.java:312)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.make(ContextInjectionFactory.java:203)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.createFromBundle(ReflectionContributionFactory.java:90)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.doCreate(ReflectionContributionFactory.java:59)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.create(ReflectionContributionFactory.java:42)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:132)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:991)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:658)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.lambda$0(PartServiceImpl.java:105)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.lambda$0(UIEventHandler.java:38)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:183)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:133)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4814)
+	at org.eclipse.e4.ui.workbench.swt.DisplayUISynchronize.syncExec(DisplayUISynchronize.java:34)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.handleEvent(UIEventHandler.java:38)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:206)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:201)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:131)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:73)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:44)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:55)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:60)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:424)
+	at org.eclipse.e4.ui.model.application.ui.impl.ElementContainerImpl.setSelectedElementGen(ElementContainerImpl.java:168)
+	at org.eclipse.e4.ui.model.application.ui.impl.ElementContainerImpl.setSelectedElement(ElementContainerImpl.java:187)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.hidePart(PartServiceImpl.java:1391)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.hidePart(PartServiceImpl.java:1341)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.closePart(StackRenderer.java:1362)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer$3.close(StackRenderer.java:1227)
+	at org.eclipse.swt.custom.CTabFolder.onMouse(CTabFolder.java:1976)
+	at org.eclipse.swt.custom.CTabFolder.lambda$0(CTabFolder.java:338)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4285)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1160)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4083)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3673)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:152)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:639)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:546)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:143)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:109)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:439)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:271)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:668)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:605)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1481)
+Caused by: java.lang.InterruptedException: null
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:136)
+	at org.eclipse.ui.internal.editors.text.WorkspaceOperationRunner.run(WorkspaceOperationRunner.java:76)
+	at org.eclipse.ui.internal.editors.text.WorkspaceOperationRunner.run(WorkspaceOperationRunner.java:66)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider.executeOperation(TextFileDocumentProvider.java:461)
+	... 78 common frames omitted
+Caused by: org.eclipse.core.runtime.OperationCanceledException: null
+	at org.eclipse.core.internal.jobs.ThreadJob.waitForRun(ThreadJob.java:288)
+	at org.eclipse.core.internal.jobs.ThreadJob.joinRun(ThreadJob.java:214)
+	at org.eclipse.core.internal.jobs.ImplicitJobs.begin(ImplicitJobs.java:95)
+	at org.eclipse.core.internal.jobs.JobManager.beginRule(JobManager.java:343)
+	at org.eclipse.core.internal.resources.WorkManager.checkIn(WorkManager.java:124)
+	at org.eclipse.core.internal.resources.Workspace.prepareOperation(Workspace.java:2401)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2446)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2476)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:131)
+	... 81 common frames omitted
+2024-10-22 15:55:14,226 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-10-22 15:57:55,825 [Worker-13: Creating project "DemoBanHang"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ntu.thomc:DemoBanHang:0.0.1-SNAPSHOT @ D:\MyProjects\6301020304-JavaProgramming\DemoBanHang\pom.xml.
+2024-10-22 15:57:57,226 [Worker-13: Creating project "DemoBanHang"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DemoBanHang/src/main/java
+2024-10-22 15:57:57,227 [Worker-13: Creating project "DemoBanHang"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DemoBanHang/src/main/resources
+2024-10-22 15:57:57,228 [Worker-13: Creating project "DemoBanHang"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DemoBanHang/src/test/java
+2024-10-22 15:57:57,228 [Worker-13: Creating project "DemoBanHang"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DemoBanHang/src/test/resources
+2024-10-22 15:57:58,112 [Worker-28: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-22 15:57:58,122 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-22 15:57:58,126 [Worker-28: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-22 15:57:58,126 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-22 16:00:22,604 [Worker-13: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: HelloMaven:thomc:0.0.1-SNAPSHOT @ D:\MyProjects\6301020304-JavaProgramming\thomc\pom.xml.
+2024-10-22 16:00:22,967 [Worker-13: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.33/mysql-connector-java-8.0.33.pom
+2024-10-22 16:00:23,014 [Worker-13: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.33/mysql-connector-java-8.0.33.pom
+2024-10-22 16:00:23,096 [Worker-13: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.21.9/protobuf-java-3.21.9.pom
+2024-10-22 16:00:23,121 [Worker-13: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.21.9/protobuf-java-3.21.9.pom
+2024-10-22 16:00:23,177 [Worker-13: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-parent/3.21.9/protobuf-parent-3.21.9.pom
+2024-10-22 16:00:23,207 [Worker-13: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-parent/3.21.9/protobuf-parent-3.21.9.pom
+2024-10-22 16:00:23,277 [Worker-13: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-bom/3.21.9/protobuf-bom-3.21.9.pom
+2024-10-22 16:00:23,325 [Worker-13: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-bom/3.21.9/protobuf-bom-3.21.9.pom
+2024-10-22 16:00:23,331 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2024-10-22 16:00:23,388 [Worker-13: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.21.9/protobuf-java-3.21.9.jar
+2024-10-22 16:00:23,770 [Worker-13: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.21.9/protobuf-java-3.21.9.jar
+2024-10-22 16:00:23,834 [Worker-13: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-22 16:00:23,835 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-22 16:00:23,837 [Worker-13: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-22 16:00:23,838 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-22 16:00:23,964 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-10-22 16:00:24,039 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: HelloMaven:thomc:0.0.1-SNAPSHOT @ D:\MyProjects\6301020304-JavaProgramming\thomc\pom.xml.
+2024-10-22 16:00:24,070 [Worker-13: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2024-10-22 16:00:24,140 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /thomc/src/main/java
+2024-10-22 16:00:24,142 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /thomc/src/main/resources
+2024-10-22 16:00:24,142 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /thomc/src/test/java
+2024-10-22 16:00:24,143 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /thomc/src/test/resources
+2024-10-22 16:00:24,209 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-10-22 16:00:25,157 [Worker-34: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-22 16:00:25,157 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-22 16:00:25,160 [Worker-34: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-22 16:00:25,160 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-22 16:00:25,858 [Worker-32: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.21.9/protobuf-java-3.21.9-sources.jar
+2024-10-22 16:00:26,335 [Worker-32: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.21.9/protobuf-java-3.21.9-sources.jar
+2024-10-22 16:00:26,340 [Worker-32: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.protobuf:protobuf-java:3.21.9
+2024-10-22 16:01:00,051 [Worker-35: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-22 16:01:00,057 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-22 16:01:00,061 [Worker-35: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-22 16:01:00,063 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-22 16:01:10,507 [Worker-32: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-22 16:01:10,507 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-22 16:01:10,509 [Worker-32: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-22 16:01:10,542 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-22 16:01:34,000 [Worker-35: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-22 16:01:34,001 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-22 16:01:34,003 [Worker-35: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-22 16:01:34,004 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
